@@ -71,7 +71,7 @@
         <inputAssignments>
             <field>Description</field>
             <value>
-                <stringValue>Call to check in with the customer</stringValue>
+                <stringValue>Call to check in with the customer after 3 days</stringValue>
             </value>
         </inputAssignments>
         <inputAssignments>
@@ -132,5 +132,5 @@
         </scheduledPaths>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
